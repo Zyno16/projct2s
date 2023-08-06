@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690394425 source:c:\users\user\desktop\desk\zino c example\timer with create clock second by\time with create cclock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
